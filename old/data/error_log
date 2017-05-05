@@ -1,0 +1,2 @@
+[22-Nov-2014 10:47:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9250495/public_html/skripsi/data/config.php on line 8
+[22-Nov-2014 10:47:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9250495/public_html/skripsi/data/config.php on line 8

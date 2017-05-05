@@ -1,0 +1,100 @@
+html,body {
+	/*min-height: 1000px;*/
+	padding-top: 25px;
+	height: 100%;
+}
+
+.footer {
+	min-height: 40px;
+	padding-top: 10px;
+}
+
+.copyright{
+	text-align: center;
+	color: white;
+}
+
+.wrapper {
+    min-height: 10%;
+    height: auto !important;
+    height: 50%;
+    margin: 0 auto -40px; /* the bottom margin is the negative value of the footer's height */
+}
+
+#center-big-content-title{
+	text-align: center;
+}
+
+.box-content{
+	width: auto;
+    padding: 10px;
+    border: 1px solid #dd4814;
+    height: 900px;
+    border-radius: 5px;
+}
+
+.berita-scroll{
+	overflow: auto;
+	max-height: 810px;
+}
+
+.lowongan-scroll{
+	overflow: auto;
+	max-height: 570px;
+}
+
+.box-no-border{
+	padding-top: 20px;
+}
+
+.navbar,.navbar-inverse{
+	background: #5E1B2C !important;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #3D0B0B!important;
+}
+
+.lupa-password{
+	color: #000;
+	text-align: center;
+}
+
+.kalender{
+	margin: 10px;
+}
+
+#show-login{
+	display: none;
+}
+
+.inner-input{
+	margin-left: -40px;
+}
+
+@media(max-width: 1023px){
+	#top-banner{
+		display: none!important;
+	}
+}
+
+@media(max-width: 1023px){
+	#hide-login{
+		display:none!important;
+	}
+
+	#show-login{
+		display: block!important;
+	}
+
+	.inner-input{
+		margin-left: 0px;
+	}
+}
+
+.top-padding-footer{
+	padding-top: 20px;
+}

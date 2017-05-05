@@ -1,0 +1,2 @@
+[22-Nov-2014 17:38:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(/home/u9250495/public_html/skripsi/skripsi/upload/worker/141665268154706789d676f.jpg): failed to open stream: No such file or directory in /home/u9250495/public_html/skripsi/worker/ajax/upload.php on line 29
+[22-Nov-2014 17:38:01 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDwgwc5' to '/home/u9250495/public_html/skripsi/skripsi/upload/worker/141665268154706789d676f.jpg' in /home/u9250495/public_html/skripsi/worker/ajax/upload.php on line 29

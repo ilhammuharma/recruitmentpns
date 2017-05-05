@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Mosaddek">
+    <meta name="keyword" content="slick, flat, dashboard, bootstrap, admin, template, theme, responsive, fluid, retina">
+    <link rel="shortcut icon" href="javascript:;" type="image/png">
+
+    <title>Advanced Components</title>
+
+    
+    <!--Select2-->
+    <link href="../assets/css/select2.css" rel="stylesheet">
+    <link href="../assets/css/select2-bootstrap.css" rel="stylesheet">
+
+    <!--common style-->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="sticky-header">
+
+    <section>
+        
+        <!-- body content start-->
+        <div class="body-content" style="min-height: 1000px;">
+
+            
+            
+            <!--body wrapper start-->
+            <div class="wrapper">
+
+
+            <div class="row">
+            <div class="col-lg-6">
+
+                
+
+                <section class="panel">
+                <header class="panel-heading">
+                    Select 2
+                    
+                </header>
+                <div class="panel-body">
+                <form class="form-horizontal">
+                <div class="form-group">
+                    <label class="col-lg-3 col-md-4 control-label">Single Select</label>
+
+                    <div class="col-lg-9 col-md-8">
+                        <select class="form-control  select2">
+                            <option></option>
+                            <optgroup label="Alaskan/Hawaiian Time Zone">
+                                <option value="AK">Alaska</option>
+                                <option value="HI">Hawaii</option>
+                            </optgroup>
+                        </select>
+
+
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                <label class="col-lg-3 col-md-4 control-label">Single Select</label>
+
+                <div class="col-lg-9 col-md-8">
+
+
+                <select class="form-control" id="e4">
+                <option></option>
+                <option value="AF">Afghanistan</option>
+                <option value="AX">Åland Islands</option>
+                <option value="AL">Albania</option>
+                
+                </select>
+                </div>
+
+                </div>
+
+
+                
+                </form>
+                </div>
+                </section>
+
+               
+            </div>
+            <div class="col-lg-6">
+
+               
+            </div>
+            </div>
+
+
+
+
+            </div>
+            <!--body wrapper end-->
+
+
+            <!--footer section start-->
+            <footer>
+                2015 &copy; SlickLab by VectorLab.
+            </footer>
+            <!--footer section end-->
+
+
+            
+
+        </div>
+        <!-- body content end-->
+    </section>
+
+<!-- Placed js at the end of the document so the pages load faster -->
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jquery-ui/jquery-ui-1.10.1.custom.min.js"></script>
+
+
+<!--select2-->
+<script src="js/select2.js"></script>
+<!--select2 init-->
+<script src="js/select2-init.js"></script>
+
+
+<!--common scripts for all pages-->
+<script src="js/scripts.js"></script>
+
+
+</body>
+</html>

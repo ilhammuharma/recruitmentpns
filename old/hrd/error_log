@@ -1,0 +1,3 @@
+[29-Nov-2014 20:42:22 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u9250495/public_html/skripsi/hrd/index.php on line 26
+[01-Dec-2014 18:25:49 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u9250495/public_html/skripsi/hrd/index.php on line 26
+[18-Dec-2014 10:53:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u9250495/public_html/skripsi/hrd/index.php on line 26
